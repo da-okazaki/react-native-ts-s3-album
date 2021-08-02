@@ -1,1 +1,16 @@
-{}
+{
+  "auth": {
+    "reactnativetss3album0784a127": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "ReactNativeTsS3Album": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}

@@ -10,6 +10,11 @@
       "StackName": "amplify-reactnativetss3album-dev-03730",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:178771883975:stack/amplify-reactnativetss3album-dev-03730/8e968810-f3a7-11eb-9531-06f54a2d114f",
       "AmplifyAppId": "de9noi5uqd3sv"
+    },
+    "categories": {
+      "auth": {
+        "reactnativetss3album0784a127": {}
+      }
     }
   }
 }
